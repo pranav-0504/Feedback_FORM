@@ -1,0 +1,52 @@
+.navbar-brand {
+    padding-top: .4125rem;
+    padding-bottom: 0.5rem;
+    margin-right: 1rem;
+    font-size: 1.9rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.mx-3 {
+    margin-right: 1rem !important;
+    margin-left: 1rem !important;
+}
+.nav-item{
+    font-size: larger;
+    padding: 10px;
+}
+
+.alert {
+ 
+    font-size: xx-large;
+    border-color: #01050a;
+    color: #0543ed;
+    background-color: #53e4cc79;
+
+}
+
+.heading{
+    font-size: xx-large;
+    /* border-color: #01050a; */
+    color: #9c0404;
+    background-color: #28918079;
+    padding:10px
+    
+
+}
+.image{
+    background-color: #ac7070;
+
+    margin: 0%;
+    padding:50px;
+
+}
+.footer{
+    font-size: 1.4rem;
+    color: #0e71d4;
+    background-color: #ecdede;
+    padding:50px
+}
+
+.p-2 {
+    padding: 8rem !important;
+}
